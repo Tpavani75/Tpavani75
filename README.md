@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavani Tekumudi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **ecommerce**
-
 - 🌱 I’m currently learning **DSA on python**
 
 - 📫 How to reach me **pavanitekumudi6@gmail.com**
